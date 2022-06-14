@@ -1,6 +1,6 @@
 # The Barnard Accessible and Accelerated Robotics Lab (A²R Lab)
 
-![A²R Lab](/profile/a2r.png)
+<img align="left" src="/profile/a2r.png" alt="A2R-Lab Logo">
 
 The A²R Lab at Barnard College, Columbia University, focusses on developing and implementing **open-source algorithms for dynamic motion planning and control** of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such, our research is at the intersection of Robotics and Computer Architecture, Embedded Systems, Numerical Optimization, and Machine Learning. You can find our research code both in this Organization and in the Hardware Acceleration for Robotics Organization: [github.com/robot-acceleration](https://github.com/robot-acceleration).
 
